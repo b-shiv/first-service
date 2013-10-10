@@ -1,0 +1,6 @@
+[submodule "first"]
+	path = first
+	url = https://github.com/b-shiv/first-module.git
+[submodule "shared"]
+	path = shared
+	url = https://github.com/b-shiv/shared-module.git
